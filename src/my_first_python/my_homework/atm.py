@@ -1,7 +1,7 @@
-
+# ATM
 password = "8888"
 balance = 5000
-# n
+
 
 user_input = input(f'{'-'*8}\n請輸入密碼:')
 while user_input != password:
